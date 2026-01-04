@@ -17,12 +17,10 @@ This project implements a basic **RV32I** processor and upgrades it from **singl
 ## 🧠 System Architecture
 
 ### Single-Cycle CPU Diagram
-![Single-Cycle CPU Diagram](docs/single_cycle_cpu_diagram.png)
+![Single-Cycle CPU Diagram](2-Stage-Pipelined-RISC-V-RV32I-Processor/Single Cycle CPU Diagram.jpeg)
 
 ### Converting Single-Cycle ➜ 2-Stage Pipelined CPU Diagram
-![2-Stage Pipelined CPU Diagram](docs/pipelined_cpu_diagram.png)
-
-> *Tip:* Put your diagrams into a `docs/` folder with the same names as above (or rename links to match your image files).
+![2-Stage Pipelined CPU Diagram](2-Stage-Pipelined-RISC-V-RV32I-Processor/Converting Single-Cycle CPU into a 2-Stage Pipelined CPU Diagram.jpeg)
 
 ---
 
