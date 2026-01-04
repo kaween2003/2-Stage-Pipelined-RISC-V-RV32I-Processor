@@ -1,7 +1,7 @@
 # 🧠 2-Stage Pipelined RISC-V (RV32I) CPU in SystemVerilog (Vivado)
 
 
-This repository contains my **University of Moratuwa (UOM) – Assignment 4** work: converting a provided **single-cycle RV32I CPU** into a **2-stage pipelined CPU**, verifying using Vivado simulation, and comparing performance and timing.
+This repository contains my **University of Moratuwa (UOM) – Assignment 4** for the course **Hands-on Introduction to Computer Architecture with RISC-V**: converting a provided **single-cycle RV32I CPU** into a **2-stage pipelined CPU**, verifying in **Vivado**, and comparing performance and timing.
 
 ✅ **Test Program:** Fibonacci (n = 12)  
 ✅ **Final Output:** `a0 (x10) = 144 (0x00000090)`  
